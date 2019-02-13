@@ -49,7 +49,7 @@ const styles = StyleSheet.create({
     counterLabel: {
       fontSize: 13,
       fontWeight: '100',
-      color: '#a3a3a3',
+      color: 'navy',
       textAlign: 'center',
       paddingTop: 0,
     },
