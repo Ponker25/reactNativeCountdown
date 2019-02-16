@@ -1,0 +1,29 @@
+{
+  "events": [
+    {
+      "title": "Release RN Course",
+      "date": "2019-06-15T00:00:11.000Z",
+      "id": "001"
+    },
+    {
+      "title": "Demo a new app",
+      "date": "2019-06-17T04:03:22.000Z",
+      "id": "002"
+    },
+    {
+      "title": "Go on holiday",
+      "date": "2019-06-18T06:50:23.000Z",
+      "id": "003"
+    },
+    {
+      "title": "Come back from holiday",
+      "date": "2019-05-20T13:45:00.000Z",
+      "id": "004"
+    },
+    {
+      "title": "Go home you have things to do",
+      "date": "2019-02-16T09:05:00.000Z",
+      "id": "aca6aa6c-ccf8-492f-a9ec-37b089b1717c"
+    }
+  ]
+}
