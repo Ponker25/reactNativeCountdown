@@ -1,16 +1,27 @@
 import React, { Component } from 'react';
 import {
-    View,
-    Text,
-    TouchableHighLight,
-} from 'react-native';
+   View,
+   Text,
+   TouchableHighlight,
+
+} from 'react-native'
 
 class EventForm extends Component {
-    render() {
-        return (
+   handleAddPress = () => {
+       // ?
+   }
 
-        );
-    }
+   render() {
+       return (
+           <View>
+               <TouchableHighlight
+                   onPress={this.handleAddPress}
+               >
+
+                   <Text>Add</Text>
+               </TouchableHighlight>
+           </View>
+       );
+   }
 }
-
-export default EventForm;
+export default EventForm
