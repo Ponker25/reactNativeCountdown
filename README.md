@@ -9,4 +9,4 @@
 
 A simple countdown timer of events. User can add new events to the list. 
 
-[Link to Portfolio] (http://william-swensen.com)
+[Link to Portfolio] (http://www.william-swensen.com)
