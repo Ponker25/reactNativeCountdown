@@ -1,29 +1,24 @@
 {
   "events": [
     {
-      "title": "Release RN Course",
-      "date": "2019-06-15T00:00:11.000Z",
-      "id": "001"
+      "title": "Add README.md to Countdown repository",
+      "date": "2019-02-17T15:23:58.000Z",
+      "id": "255ef217-30c5-49fa-8756-cbfd7ff38862"
     },
     {
-      "title": "Demo a new app",
-      "date": "2019-06-17T04:03:22.000Z",
-      "id": "002"
+      "title": "Job Interview",
+      "date": "2019-02-25T21:30:42.000Z",
+      "id": "791f212d-82a2-41be-b626-3acc6ab2fc9c"
     },
     {
-      "title": "Go on holiday",
-      "date": "2019-06-18T06:50:23.000Z",
-      "id": "003"
+      "title": "Codiig Meetup",
+      "date": "2019-02-20T02:30:05.000Z",
+      "id": "a0fe160b-9906-455a-8a10-4983334f79e7"
     },
     {
-      "title": "Come back from holiday",
-      "date": "2019-05-20T13:45:00.000Z",
-      "id": "004"
-    },
-    {
-      "title": "Go home you have things to do",
-      "date": "2019-02-16T09:05:00.000Z",
-      "id": "aca6aa6c-ccf8-492f-a9ec-37b089b1717c"
+      "title": "Code 2 hours",
+      "date": "2019-02-24T19:30:25.000Z",
+      "id": "7309aff7-43db-493e-bdc1-6580df3bbfdf"
     }
   ]
 }
